@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:FDFFC0,100:67C5C8&height=220&fontColor=ffffff&section=header&text=Hello%20World!&&fontSize=70&fontAlign=72&fontAlignY=42)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:FDFFC0,100:67C5C8&height=220&fontColor=ffffff&section=header&text=Hello%20World!&&fontSize=65&fontAlign=72&fontAlignY=42)
 
 ![Gmail](https://img.shields.io/badge/ksh.1205263@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/@is__u.kii-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=suki02)](https://solved.ac/suki02)
@@ -19,5 +19,5 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23222222.svg?style=for-the-badge&logo=github&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23FF4F8B.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:FDFFC0,100:67C5C8&&height=120&section=footer)
 
