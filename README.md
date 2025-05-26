@@ -5,7 +5,7 @@
 <h2>Hi there 👋</h2>
 <p>🌱 안녕하세요! 프론트엔드를 꿈꾸는 김서희입니다. 컴퓨터공학부 4학년에 재학 중입니다. 🐣</p>
   
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suki186&layout=compact)
 
 
 <br/>
