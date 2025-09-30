@@ -4,7 +4,7 @@
 <h2>Hi there 👋</h2>
 
 <div align="center">
-  <p>🌱 Hello! I'm Seohui Kim, dreaming of becoming a front end. I'm a senior in computer engineering.</p>
+  <p>🌱 Hello! I'm Seohui Kim, dreaming of becoming a frontend developer. I'm a senior in computer engineering.</p>
   <img src="https://github-readme-stats.vercel.app/api?username=suki186&hide=contribs,prs&show_icons=true&theme=default&bg_color=ffffff&title_color=008FC7&text_color=40AEF0&icon_color=008FC7&border_color=008FC7" width="35%" />
 </div>
 
