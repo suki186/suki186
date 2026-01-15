@@ -22,7 +22,7 @@
 
 <h4>🐹 Tech Stack</h4>
 
-![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=React&logoColor=white) ![TypeScript](https://img.shields.io/badge/Typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React%20Native-000000?style=flat-square&logo=react%20query&logoColor=61DAFB)      ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![SASS](https://img.shields.io/badge/SCSS-CC6699.svg?style=flat-square&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) <br>
+![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=React&logoColor=white) ![TypeScript](https://img.shields.io/badge/Typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React%20Native-000000?style=flat-square&logo=react%20query&logoColor=61DAFB)      ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![SASS](https://img.shields.io/badge/SCSS-CC6699.svg?style=flat-square&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) <br>
  ![React Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)  ![Zustand](https://img.shields.io/badge/-Zustand-443E39?style=flat-square&logo=React&logoColor=white)
 
 <h4>🔧 Tools</h4>
@@ -31,7 +31,7 @@
 
 <h4>📖 Studying..</h4>
 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:FDFFC0,100:67C5C8&&height=120&section=footer)
