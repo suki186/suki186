@@ -1,10 +1,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:FDFFC0,100:67C5C8&height=220&fontColor=ffffff&section=header&text=Hello%20World!&&fontSize=65&fontAlign=72&fontAlignY=42)
 
+<div align="end">
+  
+![Gmail](https://img.shields.io/badge/ksh.1205263@gmail.com-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)
+</div>
+
 <h2>Hi there 👋</h2>
 
 <div align="center">
-  <p>🌱 Hello! I'm Seohui Kim, dreaming of becoming a frontend developer. I'm a senior in computer engineering.</p>
+  <h6>🌱 Hello! I'm Seohui Kim, dreaming of becoming a frontend developer. I'm a senior in computer engineering.</h6>
   <img src="https://github-readme-stats.vercel.app/api?username=suki186&hide=contribs,prs&show_icons=true&theme=default&bg_color=ffffff&title_color=008FC7&text_color=40AEF0&icon_color=008FC7&border_color=008FC7" width="35%" />
 </div>
 
@@ -27,11 +32,11 @@
 
 <h4>🔧 Tools</h4>
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/Github-%23222222.svg?style=flat-square&logo=github&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23FF4F8B.svg?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=ffcd34)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/Github-%23222222.svg?style=flat-square&logo=github&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat-square&logo=cursor&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23FF4F8B.svg?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=ffcd34)
 
 <h4>📖 Studying..</h4>
 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:FDFFC0,100:67C5C8&&height=120&section=footer)
